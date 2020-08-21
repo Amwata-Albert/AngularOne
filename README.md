@@ -15,4 +15,4 @@ no known bugs
 https://amwata-albert.github.io/AngularOne/
 
 ## MIT License
-Copyright (c) [2018] 
+Copyright (c) [2020] 
