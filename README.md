@@ -1,4 +1,4 @@
-# Quotes
+<!-- # Quotes
 This project is about a webpage designed to enable users to create new quotes
 
 ## Description.
@@ -15,4 +15,4 @@ no known bugs
 https://amwata-albert.github.io/AngularOne/
 
 ## MIT License
-Copyright (c) [2020] 
+Copyright (c) [2020]  -->
