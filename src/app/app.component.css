@@ -1,10 +1,18 @@
 h1 {
-  color: blue;
-  font-size: 80px;
+  color: green;
+  font-size: 60px;
+  font-family:"sans-serif";
 }
 
 p {
   font-size: 20px;
   font-style: oblique;
   font-family: monospace;
+}
+.developed{
+  float: left;
+  margin-bottom: 20px;
+  margin-right: 60%;
+  font-size: 20px;
+
 }

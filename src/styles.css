@@ -1,8 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYd7H98S6ZGmQ5VZVEnQE0LuORnkX-5-XoxIPbN63o7IE_Fyikg);
+  /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmFDAqQRC0ZZlkw9g2YTvneCaikAsq-rWioQ&usqp=CAU); */
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: white;
 }
 
 .container {

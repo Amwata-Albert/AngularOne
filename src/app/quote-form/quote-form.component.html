@@ -2,9 +2,9 @@
 
   <form (submit)="onSubmit(quote.value)">
     <div>
-      <label for="name">Write Quote Here!:</label>
+      <!-- <label for="name">Write Quote Here!:</label> -->
       <br>
-      <textarea rows="15" cols="50" type="text" #quote></textarea>
+      <textarea rows="15" cols="50" value="Amwata" placeholder="Write quote Here" type="text" name="quote" [(ngModel)]="quote"></textarea>
     </div>
 
     <div class="form-group">
@@ -31,8 +31,8 @@
       <app-quote-details></app-quote-details>
       <button (click)="deleteQuote(quote)" type="submit">Delete Quote</button>
 
-      <!-- <button (click)="voteUp()">UpVote {{votesup}}</button>
-      <button (click)="voteDown()">DownVote {{votesdown}}</button> -->
+      <button (click)="voteUp()" type="submit">UpVote {{votesup}}</button>
+      <button (click)="voteDown()" type="submit">DownVote {{votesdown}}</button>
     </li>
 
 

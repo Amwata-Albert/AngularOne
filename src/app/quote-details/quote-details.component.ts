@@ -19,15 +19,15 @@ export class QuoteDetailsComponent implements OnInit {
   }
   //   function voteUp(): boolean; {
   //   this.votesup++;
-  //
-  //
-  //
+  
+  
+  
   // }
   // function voteDown(): boolean; {
   //   this.votesdown--;
-  //
-  //
+  
+  
   // }
   //   };
-  // }
+  }
 }
